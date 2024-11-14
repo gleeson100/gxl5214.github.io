@@ -1,0 +1,28 @@
+/*Custom styles*/
+.jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    margin-bottom: 0;
+    background-color: black;
+    background-image: url('img/bw_full.jpg');
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+}
+
+h1 {
+    color: aliceblue;
+    text-shadow:
+        0.02em 0 gray,
+        0 0.02em gray,
+        -0.02em 0 gray,
+        0 -0.02em gray;
+}
+
+#subheading {
+    text-shadow:
+        0.02em 0 gray,
+        0 0.02em gray,
+        -0.02em 0 gray,
+        0 -0.02em gray;
+}
